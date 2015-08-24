@@ -26,8 +26,8 @@ The **PBprotect** tool is a licensing application for **AutoHotkey** application
 * Edit the **PBprotect** product configuration file **development\Source\include\PBproduct.ahk**
 * Compile all **PBprotect** executables for this product with the Batch scripts **develompent\Compile_X.bat**.
 * Use the executables to create a system ID, license key, and enter the license key.
-* Check the default example applications **Application.exe** with the source: **Source\Application.ahk**.
-* Check the mini example applications **Application.exe** with the source: **Source\Mini_appl.ahk**.
+* Check the default example application **Application.exe** with the source: **Source\Application.ahk**.
+* Check the mini example application **Mini_Appl.exe** with the source: **Source\Mini_appl.ahk**.
 * Edit the configuration of the **PBprotect** web interface **pbprotect\web\pbprotect\config\config.php**.
 * Upload the whole directory **pbprotect\web\pbprotect** to your webhost (needs PHP installed).
 * Display the page **pbprotect/pbprotect.php** and enter the details to generate a trial license.
