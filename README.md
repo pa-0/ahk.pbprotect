@@ -38,4 +38,4 @@ This is a free tool and support is not included and guaranteed. Nevertheless I w
 
 ### License ###
 
-The **PBprotect** tool is licensed under the [**MIT License (Expat)**](http://pb-soft.com/resources/mit_license/license.html) which is published on the official site of the [**Open Source Initiative**](http://opensource.org/licenses/MIT).
+The **PBprotect** tool is licensed under the [**MIT License (Expat)**](https://pb-soft.com/resources/mit_license/license.html) which is published on the official site of the [**Open Source Initiative**](https://opensource.org/licenses/MIT).
